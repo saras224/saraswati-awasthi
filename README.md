@@ -4,13 +4,13 @@
 **PhD scholar | Environmental Microbiome · AMR  · Metagenomics · Bioinformatics**  
 📍 New Delhi, India
 
-I am a researcher and bioinformatician specializing in environmental microbiome analysis, antimicrobial resistance (AMR) surveillance, and metagenomic data analysis. My work focuses on understanding microbial communities across urban and rural environments — from house floors and wastewater drains to lakes and drinking water sources — with a particular emphasis on AMR gene dynamics and metagenome-assembled genomes (MAGs).
+I am a researcher and bioinformatician specializing in environmental microbiome analysis, antimicrobial resistance (AMR) surveillance, and metagenomic data analysis. My work focuses on understanding microbial communities across urban and rural environments — from house floors and wastewater drains to lakes and Hot springs — with a particular emphasis on AMR gene dynamics and metagenome-assembled genomes (MAGs).
 
 ---
 
 ## 🔬 Research Interests
 
-- Environmental & built-environment microbiomes (houses, lakes, wastewater)
+- Environmental & built-environment microbiomes (houses, lakes, wastewater, Hot spring)
 - Antimicrobial resistance (AMR) surveillance and ARG profiling
 - Shotgun metagenomics · 16S amplicon sequencing
 - Metagenome-assembled genomes (MAGs): assembly, binning, annotation
@@ -21,17 +21,17 @@ I am a researcher and bioinformatician specializing in environmental microbiome 
 
 ## 🧬 Current Projects
 
-### 🏠 House Microbiome Study — New Delhi (PhD Research)
+### 🏠 House Microbiome Study (PhD Research)
 > Profiling indoor microbial communities across 76 rural and urban households (348 samples)
 
 - **Scope:** 8 environmental and socioeconomic factors — landscape (rural/urban), socioeconomic status, cattle presence, floor type, pet presence, disinfection frequency, water source, and sampling location
 - **Read-level:** Microbiome diversity and ARG diversity analyses across all factors
 - **MAG-level:** dRep species-level genome bins (SGBs), ARG–MGE associations, metabolic reconstruction
-- **Tools:** QIIME2, Kraken2, HUMAnN3, MetaSPAdes, MetaBAT2, dRep, CheckM2, DRAM, R
+- **Tools:** MetaPhlAn4,HUMAnN3, MetaSPAdes, MetaBAT2, dRep, CheckM2, DRAM, R
 
 ---
 
-### 🏚️ Floor Microbiome — New Delhi (Consultancy / Pilot)
+### 🏚️ House Floor Microbiome — New Delhi (Pilot)
 > MAG recovery and characterization from house-floor samples (90 samples, 10 houses)
 
 - Recovered high-quality MAGs from urban house floors
@@ -41,12 +41,7 @@ I am a researcher and bioinformatician specializing in environmental microbiome 
 ---
 
 ### 🌊 Lake Microbiome — New Delhi (Shotgun Metagenomics)
-> Metagenomic profiling of 20 urban lakes with chemical driver analysis
-
-- 1,496 MAGs recovered across 20 lake samples
-- Prokka annotation and phylogenetic tree completed
-- **6 MAGs identified** carrying clinically relevant ARGs
-- Chemical property correlation with microbial community structure
+> Metagenomic profiling of 60 urban lakes with chemical driver analysis
 - **Tools:** MetaSPAdes, MetaBAT2, dRep, CheckM2, Prokka, DRAM, R
 
 ---
@@ -72,9 +67,7 @@ I am a researcher and bioinformatician specializing in environmental microbiome 
 
 ### 🧫 Comparative Genomics — *Kocuria palustris* & *Deinococcus*
 > Functional comparison across MAGs and reference genomes
-
-- Analysis of chitin degradation, cbb3-type cytochrome c oxidase, perchlorate reduction, ethanol fermentation, and species-specific urea utilization
-- **Tools:** Prokka, DRAM, OrthoFinder, iTOL, R
+- **Tools:** Prokka, DRAM, OrthoFinder, iTOL, R, Panaroo
 
 ---
 
@@ -114,10 +107,9 @@ I am a researcher and bioinformatician specializing in environmental microbiome 
 
 ## 📫 Connect
 
-- 🔗 [LinkedIn](#) ← *add your link*
-- 🎓 [Google Scholar](#) ← *add your link*
-- 🧬 [ORCID](#) ← *add your link*
-- 📧 [Email](#) ← *add your email*
+- 🔗 [LinkedIn](#) ← *www.linkedin.com/in/saraswati-awasthi-16720b119*
+- 🧬 [ORCID](#) ← *(https://orcid.org/0009-0000-6329-5158)*
+- 📧 [Email](#) ← *saraswati.awasthi22@gmail.com*
 
 ---
 
